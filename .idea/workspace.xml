@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0dce4ab-1123-4775-b6c8-c9cb1ed159db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1W4l0XRmL8FQGQf78Eh7EDgMLUi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_ANNOTATION_PROCESSING_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="false" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="false" />
+    <property name="LombokPluginIS_LOG_Enabled" value="false" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_VAL_Enabled" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/08_spring_exchange_2018/02_successful/demo" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RunManager" selected="Application.DemoApplication (1)">
+    <configuration name="DemoApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplication" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.howtodoinjava.demo.DemoApplication" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.howtodoinjava.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DemoApplication (1)" />
+        <item itemvalue="Application.DemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0dce4ab-1123-4775-b6c8-c9cb1ed159db" name="Default Changelist" comment="" />
+      <created>1578416524128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578416524128</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1580078902462">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1580078902462" />
+    <state width="1877" height="244" key="GridCell.Tab.0.bottom" timestamp="1579825506462">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="244" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579825506462" />
+    <state width="1877" height="244" key="GridCell.Tab.0.center" timestamp="1579825506462">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="244" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579825506462" />
+    <state width="1877" height="244" key="GridCell.Tab.0.left" timestamp="1579825506462">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="244" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579825506462" />
+    <state width="1877" height="244" key="GridCell.Tab.0.right" timestamp="1579825506462">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="244" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579825506462" />
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom" timestamp="1579411523218">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579411523218" />
+    <state width="1877" height="363" key="GridCell.Tab.1.center" timestamp="1579411523217">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579411523217" />
+    <state width="1877" height="363" key="GridCell.Tab.1.left" timestamp="1579411523217">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579411523217" />
+    <state width="1877" height="363" key="GridCell.Tab.1.right" timestamp="1579411523218">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579411523218" />
+    <state x="405" y="218" key="SettingsEditor" timestamp="1579425770419">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="405" y="218" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1579425770419" />
+    <state x="90" y="729" key="com.intellij.ide.util.TipDialog" timestamp="1581093044978">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="90" y="729" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581093044978" />
+    <state x="740" y="258" key="run.anything.popup" timestamp="1578922491003">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="258" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1578922491003" />
+  </component>
+</project>
